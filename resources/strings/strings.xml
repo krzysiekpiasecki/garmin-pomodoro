@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Pomodoro</string>
+    <string id="Work">Work</string>
+    <string id="ShortBreak">Break</string>
+    <string id="LongBreak">Long break</string>
+</strings>
